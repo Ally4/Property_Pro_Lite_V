@@ -1,0 +1,19 @@
+{
+  "name": "2ndchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ally4/Property_Pro_Lite_V.git"
+  },
+  "author": "Ally",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ally4/Property_Pro_Lite_V/issues"
+  },
+  "homepage": "https://github.com/Ally4/Property_Pro_Lite_V#readme"
+}
