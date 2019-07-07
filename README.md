@@ -5,4 +5,4 @@ the way we work is that people come to our platform, signup which leads to get r
 you can then sign in and advert your different advert. Your advert will be viewed by each and everyone who is also in the system,
 by then you can alter the different characteristics of your property and sell it.
 
-**For the code that are running see in src.**
+**For the code that are running go into server and see in src.**
